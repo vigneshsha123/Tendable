@@ -13,7 +13,7 @@
  <h2>Steps to run at your system:</h2>
 	<ul>
 	<li>Clone the repository using "git clone <repository url>"</li>
-	<li>Change "Username" and "Password" in both scenarios in feature file</li>
+	<li>launch the url and accessibility level home,our story,our solution, and why tendable  scenarios in feature file</li>
 	<li>Run "mvn clean test"</li>
 	<li>Run "mvn site"</li>
 	</ul>
